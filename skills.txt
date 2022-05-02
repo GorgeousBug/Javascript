@@ -1,0 +1,29 @@
+Skills i`m getting on studying course:
+
+Git
+GitBush(Linux Terminal)
+Javascript
+Python
+Postman
+Charles
+Fiddler
+DBeaver
+Android Studio
+writing test documentation (test plans, checklists, test cases, bug reports)
+SDLC, STLC
+Client-Server architecture
+Http methods
+Http requests ans responses structure
+JSON, XML
+API testing
+Reading server logs
+Dev Tools
+VPN
+SQL
+Postgres
+Redis
+Jmeter
+scrum
+
+
+
